@@ -1,0 +1,52 @@
+.satauri {
+        margin-top: 18px;
+        margin-bottom: 18px;
+        margin-right: 22px;
+        color: #343638;
+        font-size: 11px;
+}
+.logo {
+margin-top: 18px;
+margin-bottom: 18px;
+margin-left: 20px;
+margin-right: 90px;
+color: #FA6980;
+font-size: 13px;
+
+
+}
+.home {
+font-size: 11px;
+margin-top: 18px;
+margin-bottom: 18px;
+margin-right: 27px;
+}
+.logo1{
+
+        vertical-align: middle;
+}
+.sec1 {
+        margin-top: 25px;
+        margin-left: 140px;
+}
+.div1 {
+        display: inline-block;
+        width: 360px;
+      
+}
+.span {
+     
+        display: inline-block;
+      padding-left: 40px;
+      padding-top: 60px;
+      padding-bottom: 40px;
+      background-color:grey;
+
+}
+.trend {
+        font-size: 24px;
+         width: bold;
+        color: #202124;
+        margin-bottom: 40px;
+
+}
